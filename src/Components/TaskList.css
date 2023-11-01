@@ -1,0 +1,8 @@
+.containerTask{
+    display: flex;
+    flex-wrap: wrap;
+    padding: .5em;
+}
+h1{
+    text-align: center;
+}

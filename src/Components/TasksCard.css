@@ -1,0 +1,14 @@
+
+.containerCard{
+  width: 30%;
+  margin: 1em 0.3em;
+  text-align: center;
+  border: 2px solid black;
+
+}
+.titleCard{
+  margin: 1em 0;
+}
+.descriptionCard{
+  margin: 1em 0;
+}
